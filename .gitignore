@@ -1,0 +1,12 @@
+node_modules
+.next
+
+# Output
+/build
+
+# Env
+.env
+.env.*
+
+# Test
+/coverage
